@@ -6,3 +6,4 @@
 [Stony Brook University](https://www.stonybrook.edu)
 
 ## Research interests
+Using physical oceanography to answer interdisciplinary questions. I am currently studying the wintertime exchange of carbon dioxide at the air-sea interface using Uncrewed Surface Vehicles. 
